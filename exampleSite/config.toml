@@ -1,0 +1,62 @@
+baseURL = "https://f3ar.netlify.app/"
+languageCode = "en-us"
+title = "F3AR - Don't fear your third party libraries any more"
+themesDir = "../.."
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "images/logo-mobile.svg"
+    mobile_height = "36px"
+    mobile_width = "36px"
+    desktop = "images/logo.svg"
+    desktop_height = "29px"
+    desktop_width = "217px"
+    alt = "F3AR"
+
+  [params.homepage_meta_tags]
+    meta_description = "F3AR, is an application that reports the operational risk of a library."
+    meta_og_title = "F3AR - Don't fear your third party libraries any more"
+    meta_og_type = "website"
+    meta_og_url = "https://f3ar.netlify.app/"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "F3AR, is an application that reports the operational risk of a library."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@cassiodeveloper"
+    meta_twitter_creator = "@cassiodeveloper"
+
+[[menu.main]]
+	name = "Features"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "History"
+    url = "/history/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
