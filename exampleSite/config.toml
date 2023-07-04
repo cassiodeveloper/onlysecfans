@@ -10,7 +10,7 @@ theme = "hugo-hero-theme"
     min = "0.92.0"
     
 [params]
-  google_analytics_id=""
+  google_analytics_id="G-5VGLZHR9C2"
 
   [params.logo]
     mobile = "images/logo-mobile.svg"
@@ -33,17 +33,17 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@cassiodeveloper"
 
 [[menu.main]]
-	name = "Features"
+	name = "Conteúdo"
 	url = "/services/"
     weight = 1
 
 [[menu.main]]
-    name = "About"
+    name = "Sobre"
     url = "/about/"
     weight = 2
 
 [[menu.main]]
-    name = "Contact"
+    name = "Contato"
     url = "/contact/"
     weight = 3
 
