@@ -1,56 +1,34 @@
 ---
-title: 'Versions'
+title: 'AppSec Cards'
 date: 2018-11-28T15:14:54+10:00
 icon: 'services/service-icon-5.png'
 featured: true
 draft: false
-heroHeading: 'Versions'
-heroSubHeading: 'Check all the versions of your library and understand how it affects you,'
+heroHeading: 'AppSec Cards'
+heroSubHeading: 'AppSec Cards: Divirta-se e aprenda sobre Application Security'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Bem-vindo(a) ao mundo dos AppSec Cards, o seu produto exclusivo que combina diversão e aprendizado sobre Application Security em um formato criativo e cômico.
 
-## Ne verba patulosque numen vix libet
+## O que são os AppSec Cards?
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Os AppSec Cards são imagens no formato de cards cômicos entregues semanalmente, projetados para fornecer conhecimentos sobre Application Security de maneira divertida e envolvente. Cada card aborda um conceito, desafio ou situação relacionada à segurança de aplicações, apresentando-o de forma ilustrada e bem-humorada.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## O que você encontrará nos AppSec Cards?
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+- Aprendizado Lúdico: Cada card é uma oportunidade de aprendizado descontraído. Os conceitos de segurança de aplicativos são apresentados de forma acessível e divertida, permitindo que você absorva informações valiosas sem esforço.
+- Ilustrações Criativas: Nossos cards são visualmente atraentes e ricamente ilustrados, tornando a experiência de aprendizado ainda mais agradável. Explore alguns personagens, situações e cenários relacionados à segurança de aplicativos.
+- Desafios e Dicas: Além do aspecto cômico, alguns cards também apresentam desafios interativos ou dicas práticas que ajudam você a aprimorar suas habilidades em Application Security.
 
-## Postquam tamen
+## Benefícios
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+- Aprendizado Semanal: Receba um novo card toda semana, garantindo uma dose constante de conhecimento sobre segurança de aplicativos enquanto se diverte.
+- Exclusividade: Os AppSec Cards são exclusivos para assinantes do OnlySecFans, proporcionando uma experiência única e divertida que não está disponível publicamente.
+- Engajamento: Os cards são ótimos para iniciar conversas e interagir com outros entusiastas de Application Security dentro do OnlySecFans.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Como assinar o AppSec Cards?
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+Para se tornar um assinante do OnlySecFans e ter acesso exclusivo ao AppSec Cards, basta clicar [aqui](https://pay.hotmart.com/P82624344I) e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+**Não perca a oportunidade de fortalecer suas habilidades de segurança de aplicações. Assine agora mesmo e prepare-se para se destacar no mundo da Application Security!**
