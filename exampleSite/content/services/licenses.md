@@ -1,53 +1,40 @@
 ---
-title: 'Licenses'
+title: 'AppSec News'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-3.png'
 featured: true
 draft: false
-heroHeading: 'Licenses'
-heroSubHeading: 'The corrrect use of a software license is critical, check if you are not violating anything'
+heroHeading: 'AppSec News'
+heroSubHeading: 'Boletim semanal exclusivo que mantém você informado sobre as últimas notícias e tendências em Application Security'
 heroBackground: 'services/service1.jpg'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Bem-vindo(a) ao AppSec News, o seu boletim semanal exclusivo que mantém você informado sobre as últimas notícias e tendências em Application Security (Segurança de Aplicativos).
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+## O que é o AppSec News?
 
-## Geniti facinus praeruptam atris ab manus in
+O AppSec News é um serviço dentro do OnlySecFans que entrega, diretamente no seu portal um compilado semanal de notícias relevantes sobre Application Security. Selecionamos os principais portais, blogs e fontes confiáveis do setor para trazer a você as informações mais recentes e importantes.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+### Alguns portais que consultamos:
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+1. The Hackers News
+2. Threat post
+3. Dark Reading
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+## O que você encontrará no AppSec News?
 
-## Vidit si probetne vertitur
+- Notícias Abrangentes: Reunimos notícias de diversos portais especializados em Cyber Security, trazendo informações atualizadas sobre ameaças, vulnerabilidades, práticas recomendadas, atualizações de ferramentas e muito mais.
+- Seleção Criteriosa: Tentamos filtrar e selecionar cuidadosamente as notícias mais relevantes e impactantes, garantindo que você esteja sempre atualizado sobre os desenvolvimentos mais importantes no campo da Application Security.
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+## Benefícios
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+- Informação Centralizada: Receba um resumo semanal conciso das notícias mais importantes em um único lugar, economizando tempo e esforço na busca de informações relevantes.
+- Conteúdo Exclusivo: O AppSec News é exclusivo para assinantes do OnlySecFans, garantindo que você tenha acesso privilegiado a informações valiosas que podem impulsionar sua carreira e conhecimento em segurança de aplicações.
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+Atualização Contínua: Mantenha-se atualizado em um campo em constante evolução, acompanhando as últimas tendências, práticas recomendadas e descobertas no mundo da Application Security.
+
+## Como assinar o AppSec News?
+
+Para se tornar um assinante do OnlySecFans e ter acesso exclusivo ao AppSec News, basta clicar [aqui](https://pay.hotmart.com/P82624344I) e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
+
+**Não perca a oportunidade de fortalecer suas habilidades de segurança de aplicações. Assine agora mesmo e prepare-se para se destacar no mundo da Application Security!**
