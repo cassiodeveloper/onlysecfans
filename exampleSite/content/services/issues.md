@@ -1,56 +1,42 @@
 ---
-title: 'Issues'
+title: 'Pílulas de AppSec'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-heroHeading: 'Issues'
-heroSubHeading: 'Understand how the issues are handled in the library community'
+heroHeading: 'Pílulas de AppSec'
+heroSubHeading: 'Aprenda sobre Application Security de forma prática e contínua'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Bem-vindo(a) às Pílulas de AppSec, o seu guia semanal para se aprofundar em Application Security (Segurança de Aplicações).
 
-## Ne verba patulosque numen vix libet
+## O que são as Pílulas de AppSec?
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+As Pílulas de AppSec são documentos em formato PDF cuidadosamente elaborados e entregues semanalmente, com o objetivo de fornecer conhecimentos valiosos sobre a segurança de aplicações. Cada pílula é projetada para ser um recurso de aprendizado rápido e prático, permitindo que você adquira habilidades essenciais de segurança de aplicações de forma eficiente.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+### Alguns temas já publicados:
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+1. Certificações
+2. Dev vs Sec
+3. Logs
+4. KPIs
+5. Testes de segurança
 
-## Postquam tamen
+## O que você encontrará nas Pílulas de AppSec?
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+- Conteúdo Especializado: Nossas pílulas são desenvolvidas pelo especialista em segurança de aplicações [Cássio Pereira](https://linktr.ee/cassiodeveloper), que compartilha suas melhores práticas e experiência de mais de duas décadas, dicas e insights sobre as últimas tendências e técnicas.
+- Guias Passo a Passo: Aprenda através de exemplos práticos e guias passo a passo, que fornecem uma abordagem hands-on para aprimorar suas habilidades de Application Security.
+- Tópicos Abrangentes: Cobrimos uma ampla gama de tópicos relacionados à segurança de aplicações, incluindo OWASP, testes de penetração, mitigação de vulnerabilidades, segurança em desenvolvimento de software e muito mais.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Benefícios
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+- Acesso exclusivo: Como assinante, você terá acesso exclusivo às Pílulas de AppSec toda semana.
+- Aprimoramento contínuo: Aprenda em seu próprio ritmo e aprimore suas habilidades de segurança de aplicações de forma consistente, semana após semana.
+- Recursos úteis: Além dos documentos em PDF, você terá acesso a materiais complementares, como cards (guias de bolso), modelos, listas de verificação, ferramentas recomendadas e muito mais.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## Como assinar as Pílulas de AppSec?
+
+Para se tornar um assinante do OnlySecFans e ter acesso exclusivo às Pílulas de AppSec, basta clicar aqui e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
+
+**Não perca a oportunidade de fortalecer suas habilidades de segurança de aplicações. Assine agora mesmo e prepare-se para se destacar no mundo da Application Security!**

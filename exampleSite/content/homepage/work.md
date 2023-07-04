@@ -3,7 +3,7 @@ title: 'Você não precisa gastar uma fortuna para conquistar a senioridade em s
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Como?'
-buttonLink: 'work'
+buttonLink: 'features'
 ---
 
 Se o seu sonho é ter conhecimento avançado em cyber segurança, mas você não quer gastar uma fortuna, estudar igual louco para uma certificação específica ou ainda sofrer para encontrar conteúdo em português. Não se preocupe.
