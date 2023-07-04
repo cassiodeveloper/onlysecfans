@@ -1,64 +1,34 @@
 ---
-title: 'Library activity'
+title: 'AppSec Insiders Club'
 date: 2018-11-28T15:14:39+10:00
 icon: 'services/service-icon-2.png'
 featured: true
 draft: false
-heroHeading: 'Activity'
-heroSubHeading: 'Understand the activity on the library repo'
+heroHeading: 'AppSec Insiders Club'
+heroSubHeading: 'Junte-se à comunidade exclusiva de profissionais de Application Security'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+Bem-vindo(a) ao AppSec Insiders Club, o seu passe de acesso para uma comunidade exclusiva de profissionais apaixonados por Application Security.
 
-## Inter pectore totidem
+## O que é o AppSec Insiders Club?
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+O AppSec Insiders Club é uma comunidade exclusiva projetada para conectar profissionais de Application Security como você. É um lugar onde você pode interagir, compartilhar experiências, aprender com os outros e expandir seu network.
 
-## Novis hunc qua erat caecisque
+## O que você encontrará no AppSec Insiders Club?
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+- Networking e Interação: Conheça e conecte-se com outros profissionais de Application Security. Compartilhe conhecimentos, faça perguntas, participe de discussões e colabore com pessoas que compartilham seus interesses e desafios.
+- Recursos e Conteúdos Exclusivos: Acesse conteúdos premium, como webinars, workshops, artigos e estudos de caso exclusivos para membros. Mantenha-se atualizado sobre as últimas tendências, práticas recomendadas e inovações no campo da segurança de aplicativos.
+- Eventos e Encontros: Participe de eventos online e presenciais exclusivos para membros do AppSec Insiders Club. Tenha a oportunidade de se reunir com especialistas, participar de painéis de discussão e expandir seu network em eventos de destaque na área.
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+## Benefícios
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+- Networking Profissional: Conheça e crie relacionamentos com profissionais de Application Security de todo o mundo. Aproveite a oportunidade de trocar ideias, compartilhar experiências e obter insights valiosos.
+- Aprendizado Contínuo: Tenha acesso a recursos e conteúdos exclusivos que aprofundam seus conhecimentos em Application Security. Aprenda com especialistas, compartilhe suas experiências e expanda sua expertise no campo.
+- Experiências Valiosas: Participe de eventos exclusivos, tenha acesso a conteúdos premium e explore oportunidades de colaboração que podem impulsionar sua carreira e ampliar suas perspectivas profissionais.
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
+## Como assinar o AppSec Insiders Club?
 
-## Statuunt nais inponere tamen duodena aemulus mille
+Para se tornar um assinante do OnlySecFans e ter acesso exclusivo ao AppSec Insiders Club, basta clicar [aqui](https://pay.hotmart.com/P82624344I) e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
 
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+**Não perca a oportunidade de fortalecer suas habilidades de segurança de aplicações. Assine agora mesmo e prepare-se para se destacar no mundo da Application Security!**

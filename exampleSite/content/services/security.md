@@ -1,50 +1,37 @@
 ---
-title: 'Security'
+title: 'Cabe no seu bolso'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-6.png'
 draft: false
 featured: true
 weight: 2
-heroHeading: 'Security'
-heroSubHeading: 'Vulnerabilities are everywhere, find out a bit more about your libraries'
+heroHeading: 'Cabe no seu bolso'
+heroSubHeading: 'Faça parte do OnlySecFans agora mesmo: Preço Justo e Acessível'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Bem-vindo(a) ao OnlySecFans, o lugar perfeito para se manter atualizado e ter acesso a conteúdos exclusivos. E o melhor de tudo? O preço é justo e acessível para todos os entusiastas que desejam expandir seus conhecimentos.
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+## O que é o OnlySecFans?
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+O OnlySecFans é um espaço premium projetado para oferecer uma experiência enriquecedora aos nossos membros. Através da assinatura, você terá acesso a uma variedade de benefícios exclusivos, incluindo conteúdos selecionados, eventos especiais, oportunidades de networking e muito mais.
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+Ah claro, apesar do nome engraçadinho não há nada +18 por aqui viu?
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+# Por que escolher o OnlySecFans?
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
+- Preço Justo e Acessível: Acreditamos que o conhecimento deve ser acessível a todos. Por isso, oferecemos um preço justo que não vai pesar no seu bolso. Queremos garantir que você tenha a oportunidade de aproveitar ao máximo nossa comunidade e recursos exclusivos.
+- Conteúdos de Qualidade: Como membro do OnlySecFans, você terá acesso a conteúdos cuidadosamente preparados. Desde artigos e tutoriais até vídeos e webinars, tudo foi pensado para proporcionar uma experiência de aprendizado enriquecedora.
+- Eventos Exclusivos: Além do acesso aos conteúdos, você terá a oportunidade de participar de eventos especiais reservados exclusivamente para nossos membros. Participe de palestras, workshops e painéis de discussão com especialistas renomados e amplie seu networking.
 
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
+Como fazer parte do Clube de Assinatura Digital?
 
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
+Para se tornar membro do nosso Clube de Assinatura Digital, basta preencher o formulário de inscrição em nosso site. Assim que seu cadastro for aprovado, você receberá todas as informações necessárias para acessar os benefícios exclusivos.
 
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+Não perca tempo! Junte-se ao nosso Clube de Assinatura Digital hoje mesmo e faça parte de uma comunidade apaixonada por conhecimento, com um preço justo e acessível.
+
+## Como assinar o OnlySecFans?
+
+Para se tornar um assinante do OnlySecFans e ter acesso exclusivo a todo o conteúdo exclusivo, basta clicar [aqui](https://pay.hotmart.com/P82624344I) e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
+
+**Não perca a oportunidade de fortalecer suas habilidades de segurança de aplicações. Assine agora mesmo e prepare-se para se destacar no mundo da Application Security!**
