@@ -4,7 +4,7 @@ date: 2018-12-06T09:29:16+10:00
 layout: 'about'
 heroHeading: 'Sobre'
 heroSubHeading: "O OnlySecFans é o lugar certo para quem quer ser expert em cyber segurança. Fazer parte desse grupo é obrigatório se você é:"
-heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
+heroBackground: 'images/1.jpg'
 ---
 
 <div>
