@@ -7,7 +7,7 @@ featured: true
 weight: 2
 heroHeading: 'Cabe no seu bolso'
 heroSubHeading: 'Faça parte do OnlySecFans agora mesmo: Preço Justo e Acessível'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/2.jpg'
 ---
 
 Bem-vindo(a) ao OnlySecFans, o lugar perfeito para se manter atualizado e ter acesso a conteúdos exclusivos. E o melhor de tudo? O preço é justo e acessível para todos os entusiastas que desejam expandir seus conhecimentos.

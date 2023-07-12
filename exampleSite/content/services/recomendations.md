@@ -7,7 +7,7 @@ featured: true
 weight: 1
 heroHeading: 'Mentoria AppSec'
 heroSubHeading: 'Acesso exclusivo a aulas ao vivo com o especialista Cássio Pereira'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/3.jpg'
 ---
 
 Bem-vindo(a) à Mentoria AppSec, um programa de mentoria exclusivo que oferece a oportunidade de aprender com o renomado especialista em Application Security, Cássio Pereira, por meio de aulas ao vivo e interativas.

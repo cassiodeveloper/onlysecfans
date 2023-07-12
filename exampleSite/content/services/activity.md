@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'AppSec Insiders Club'
 heroSubHeading: 'Junte-se à comunidade exclusiva de profissionais de Application Security'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/2.jpg'
 ---
 
 Bem-vindo(a) ao AppSec Insiders Club, o seu passe de acesso para uma comunidade exclusiva de profissionais apaixonados por Application Security.

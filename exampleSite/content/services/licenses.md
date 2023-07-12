@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'AppSec News'
 heroSubHeading: 'Boletim semanal exclusivo que mantém você informado sobre as últimas notícias e tendências em Application Security'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/3.jpg'
 ---
 
 Bem-vindo(a) ao AppSec News, o seu boletim semanal exclusivo que mantém você informado sobre as últimas notícias e tendências em Application Security (Segurança de Aplicativos).

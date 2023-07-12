@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'AppSec Cards'
 heroSubHeading: 'AppSec Cards: Divirta-se e aprenda sobre Application Security'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/1.jpg'
 ---
 
 Bem-vindo(a) ao mundo dos AppSec Cards, o seu produto exclusivo que combina diversão e aprendizado sobre Application Security em um formato criativo e cômico.

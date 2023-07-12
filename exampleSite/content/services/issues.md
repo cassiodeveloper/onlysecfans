@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'Pílulas de AppSec'
 heroSubHeading: 'Aprenda sobre Application Security de forma prática e contínua'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/1.jpg'
 ---
 
 Bem-vindo(a) às Pílulas de AppSec, o seu guia semanal para se aprofundar em Application Security (Segurança de Aplicações).
