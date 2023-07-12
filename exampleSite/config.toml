@@ -16,10 +16,10 @@ theme = "hugo-hero-theme"
     mobile = "images/logo-mobile.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/logo.svg"
+    desktop = "images/logo.png"
     desktop_height = "29px"
     desktop_width = "217px"
-    alt = "F3AR"
+    alt = "OnlySecFans"
 
   [params.homepage_meta_tags]
     meta_description = "OnlySecFans, um programa completo para você se desenvolver profissionalmente na área de cyber segurança."
