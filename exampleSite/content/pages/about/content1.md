@@ -2,7 +2,7 @@
 title: 'Profissional de segurança'
 date: 2018-12-06T09:29:16+10:00
 weight: 1
-background: '/images/5.jpg'
+background: '/images/4.jpg'
 align: right
 ---
 
