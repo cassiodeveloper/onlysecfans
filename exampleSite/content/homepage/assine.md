@@ -6,4 +6,4 @@ button: 'Assinar agora'
 buttonLink: 'https://pay.hotmart.com/P82624344I'
 ---
 
-R$ 29,90 /mês no plano anual.
+<h2>R$ 29,90<h2> <h6>/mês</h6> <span>no plano anual.</span>
