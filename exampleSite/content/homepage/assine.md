@@ -1,9 +1,9 @@
 ---
-title: 'Assine agora!'
+title: 'Assine agora mesmo!'
 weight: 3
-background: ''
-button: 'Assine agora'
-buttonLink: 'https://google.com.br'
+background: 'pgto.png'
+button: 'Assinar agora'
+buttonLink: 'https://pay.hotmart.com/P82624344I'
 ---
 
-ASSINE JÁ!
+R$ 29,90 /mês no plano anual.
