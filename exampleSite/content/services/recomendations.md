@@ -18,15 +18,15 @@ A Mentoria AppSec é um programa especializado projetado para fornecer orientaç
 
 ## O que você encontrará na Mentoria AppSec?
 
-- Aulas Ao Vivo: Participe de sessões de mentoria interativas em tempo real, conduzidas por Cássio Pereira. Aprenda conceitos avançados, melhores práticas e abordagens estratégicas diretamente do especialista.
-- Interação e Engajamento: Tenha a oportunidade de interagir com Cássio Pereira e outros participantes, compartilhando experiências, tirando dúvidas e discutindo casos reais. Aproveite a atmosfera colaborativa e obtenha insights valiosos.
-- Orientação Personalizada: Receba feedback individualizado e direcionamento específico para suas necessidades e desafios em segurança de aplicativos. A mentoria é adaptada para ajudar você a alcançar seus objetivos e aprimorar suas habilidades.
+- [X] Aulas Ao Vivo: Participe de sessões de mentoria interativas em tempo real, conduzidas por Cássio Pereira. Aprenda conceitos avançados, melhores práticas e abordagens estratégicas diretamente do especialista.
+- [X] Interação e Engajamento: Tenha a oportunidade de interagir com Cássio Pereira e outros participantes, compartilhando experiências, tirando dúvidas e discutindo casos reais. Aproveite a atmosfera colaborativa e obtenha insights valiosos.
+- [X] Orientação Personalizada: Receba feedback individualizado e direcionamento específico para suas necessidades e desafios em segurança de aplicativos. A mentoria é adaptada para ajudar você a alcançar seus objetivos e aprimorar suas habilidades.
 
 ## Benefícios
 
-- Acesso Exclusivo: Desfrute de um programa de mentoria exclusivo, com acesso privilegiado a aulas ao vivo ministradas pelo especialista Cássio Pereira.
-- Aprendizado Prático: Aplique os conhecimentos adquiridos imediatamente em seu trabalho diário, utilizando os insights e as melhores práticas compartilhadas durante as sessões.
-- Network Profissional: Faça parte de uma comunidade de profissionais de Application Security que compartilham os mesmos interesses e desafios. Aproveite a oportunidade para expandir seu network e colaborar com outros participantes.
+- [X] Acesso Exclusivo: Desfrute de um programa de mentoria exclusivo, com acesso privilegiado a aulas ao vivo ministradas pelo especialista Cássio Pereira.
+- [X] Aprendizado Prático: Aplique os conhecimentos adquiridos imediatamente em seu trabalho diário, utilizando os insights e as melhores práticas compartilhadas durante as sessões.
+- [X] Network Profissional: Faça parte de uma comunidade de profissionais de Application Security que compartilham os mesmos interesses e desafios. Aproveite a oportunidade para expandir seu network e colaborar com outros participantes.
 
 ## Como participar da Mentoria AppSec?
 

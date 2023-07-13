@@ -17,15 +17,15 @@ Os AppSec Cards são imagens no formato de cards cômicos entregues semanalmente
 
 ## O que você encontrará nos AppSec Cards?
 
-- Aprendizado Lúdico: Cada card é uma oportunidade de aprendizado descontraído. Os conceitos de segurança de aplicativos são apresentados de forma acessível e divertida, permitindo que você absorva informações valiosas sem esforço.
-- Ilustrações Criativas: Nossos cards são visualmente atraentes e ricamente ilustrados, tornando a experiência de aprendizado ainda mais agradável. Explore alguns personagens, situações e cenários relacionados à segurança de aplicativos.
-- Desafios e Dicas: Além do aspecto cômico, alguns cards também apresentam desafios interativos ou dicas práticas que ajudam você a aprimorar suas habilidades em Application Security.
+- [X] Aprendizado Lúdico: Cada card é uma oportunidade de aprendizado descontraído. Os conceitos de segurança de aplicativos são apresentados de forma acessível e divertida, permitindo que você absorva informações valiosas sem esforço.
+- [X] Ilustrações Criativas: Nossos cards são visualmente atraentes e ricamente ilustrados, tornando a experiência de aprendizado ainda mais agradável. Explore alguns personagens, situações e cenários relacionados à segurança de aplicativos.
+- [X] Desafios e Dicas: Além do aspecto cômico, alguns cards também apresentam desafios interativos ou dicas práticas que ajudam você a aprimorar suas habilidades em Application Security.
 
 ## Benefícios
 
-- Aprendizado Semanal: Receba um novo card toda semana, garantindo uma dose constante de conhecimento sobre segurança de aplicativos enquanto se diverte.
-- Exclusividade: Os AppSec Cards são exclusivos para assinantes do OnlySecFans, proporcionando uma experiência única e divertida que não está disponível publicamente.
-- Engajamento: Os cards são ótimos para iniciar conversas e interagir com outros entusiastas de Application Security dentro do OnlySecFans.
+- [X] Aprendizado Semanal: Receba um novo card toda semana, garantindo uma dose constante de conhecimento sobre segurança de aplicativos enquanto se diverte.
+- [X] Exclusividade: Os AppSec Cards são exclusivos para assinantes do OnlySecFans, proporcionando uma experiência única e divertida que não está disponível publicamente.
+- [X] Engajamento: Os cards são ótimos para iniciar conversas e interagir com outros entusiastas de Application Security dentro do OnlySecFans.
 
 ## Como assinar o AppSec Cards?
 

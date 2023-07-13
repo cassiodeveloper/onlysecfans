@@ -25,15 +25,15 @@ As Pílulas de AppSec são documentos em formato PDF cuidadosamente elaborados e
 
 ## O que você encontrará nas Pílulas de AppSec?
 
-- Conteúdo Especializado: Nossas pílulas são desenvolvidas pelo especialista em segurança de aplicações [Cássio Pereira](https://linktr.ee/cassiodeveloper), que compartilha suas melhores práticas e experiência de mais de duas décadas, dicas e insights sobre as últimas tendências e técnicas.
-- Guias Passo a Passo: Aprenda através de exemplos práticos e guias passo a passo, que fornecem uma abordagem hands-on para aprimorar suas habilidades de Application Security.
-- Tópicos Abrangentes: Cobrimos uma ampla gama de tópicos relacionados à segurança de aplicações, incluindo OWASP, testes de penetração, mitigação de vulnerabilidades, segurança em desenvolvimento de software e muito mais.
+- [X] Conteúdo Especializado: Nossas pílulas são desenvolvidas pelo especialista em segurança de aplicações [Cássio Pereira](https://linktr.ee/cassiodeveloper), que compartilha suas melhores práticas e experiência de mais de duas décadas, dicas e insights sobre as últimas tendências e técnicas.
+- [X] Guias Passo a Passo: Aprenda através de exemplos práticos e guias passo a passo, que fornecem uma abordagem hands-on para aprimorar suas habilidades de Application Security.
+- [X] Tópicos Abrangentes: Cobrimos uma ampla gama de tópicos relacionados à segurança de aplicações, incluindo OWASP, testes de penetração, mitigação de vulnerabilidades, segurança em desenvolvimento de software e muito mais.
 
 ## Benefícios
 
-- Acesso exclusivo: Como assinante, você terá acesso exclusivo às Pílulas de AppSec toda semana.
-- Aprimoramento contínuo: Aprenda em seu próprio ritmo e aprimore suas habilidades de segurança de aplicações de forma consistente, semana após semana.
-- Recursos úteis: Além dos documentos em PDF, você terá acesso a materiais complementares, como cards (guias de bolso), modelos, listas de verificação, ferramentas recomendadas e muito mais.
+- [X] Acesso exclusivo: Como assinante, você terá acesso exclusivo às Pílulas de AppSec toda semana.
+- [X] Aprimoramento contínuo: Aprenda em seu próprio ritmo e aprimore suas habilidades de segurança de aplicações de forma consistente, semana após semana.
+- [X] Recursos úteis: Além dos documentos em PDF, você terá acesso a materiais complementares, como cards (guias de bolso), modelos, listas de verificação, ferramentas recomendadas e muito mais.
 
 ## Como assinar as Pílulas de AppSec?
 

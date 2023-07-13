@@ -17,15 +17,15 @@ O AppSec Insiders Club é uma comunidade exclusiva projetada para conectar profi
 
 ## O que você encontrará no AppSec Insiders Club?
 
-- Networking e Interação: Conheça e conecte-se com outros profissionais de Application Security. Compartilhe conhecimentos, faça perguntas, participe de discussões e colabore com pessoas que compartilham seus interesses e desafios.
-- Recursos e Conteúdos Exclusivos: Acesse conteúdos premium, como webinars, workshops, artigos e estudos de caso exclusivos para membros. Mantenha-se atualizado sobre as últimas tendências, práticas recomendadas e inovações no campo da segurança de aplicativos.
-- Eventos e Encontros: Participe de eventos online e presenciais exclusivos para membros do AppSec Insiders Club. Tenha a oportunidade de se reunir com especialistas, participar de painéis de discussão e expandir seu network em eventos de destaque na área.
+- [X] Networking e Interação: Conheça e conecte-se com outros profissionais de Application Security. Compartilhe conhecimentos, faça perguntas, participe de discussões e colabore com pessoas que compartilham seus interesses e desafios.
+- [X] Recursos e Conteúdos Exclusivos: Acesse conteúdos premium, como webinars, workshops, artigos e estudos de caso exclusivos para membros. Mantenha-se atualizado sobre as últimas tendências, práticas recomendadas e inovações no campo da segurança de aplicativos.
+- [X] Eventos e Encontros: Participe de eventos online e presenciais exclusivos para membros do AppSec Insiders Club. Tenha a oportunidade de se reunir com especialistas, participar de painéis de discussão e expandir seu network em eventos de destaque na área.
 
 ## Benefícios
 
-- Networking Profissional: Conheça e crie relacionamentos com profissionais de Application Security de todo o mundo. Aproveite a oportunidade de trocar ideias, compartilhar experiências e obter insights valiosos.
-- Aprendizado Contínuo: Tenha acesso a recursos e conteúdos exclusivos que aprofundam seus conhecimentos em Application Security. Aprenda com especialistas, compartilhe suas experiências e expanda sua expertise no campo.
-- Experiências Valiosas: Participe de eventos exclusivos, tenha acesso a conteúdos premium e explore oportunidades de colaboração que podem impulsionar sua carreira e ampliar suas perspectivas profissionais.
+- [X] Networking Profissional: Conheça e crie relacionamentos com profissionais de Application Security de todo o mundo. Aproveite a oportunidade de trocar ideias, compartilhar experiências e obter insights valiosos.
+- [X] Aprendizado Contínuo: Tenha acesso a recursos e conteúdos exclusivos que aprofundam seus conhecimentos em Application Security. Aprenda com especialistas, compartilhe suas experiências e expanda sua expertise no campo.
+- [X] Experiências Valiosas: Participe de eventos exclusivos, tenha acesso a conteúdos premium e explore oportunidades de colaboração que podem impulsionar sua carreira e ampliar suas perspectivas profissionais.
 
 ## Como assinar o AppSec Insiders Club?
 

@@ -20,9 +20,9 @@ Ah claro, apesar do nome engraçadinho não há nada +18 por aqui viu?
 
 # Por que escolher o OnlySecFans?
 
-- Preço Justo e Acessível: Acreditamos que o conhecimento deve ser acessível a todos. Por isso, oferecemos um preço justo que não vai pesar no seu bolso. Queremos garantir que você tenha a oportunidade de aproveitar ao máximo nossa comunidade e recursos exclusivos.
-- Conteúdos de Qualidade: Como membro do OnlySecFans, você terá acesso a conteúdos cuidadosamente preparados. Desde artigos e tutoriais até vídeos e webinars, tudo foi pensado para proporcionar uma experiência de aprendizado enriquecedora.
-- Eventos Exclusivos: Além do acesso aos conteúdos, você terá a oportunidade de participar de eventos especiais reservados exclusivamente para nossos membros. Participe de palestras, workshops e painéis de discussão com especialistas renomados e amplie seu networking.
+- [X] Preço Justo e Acessível: Acreditamos que o conhecimento deve ser acessível a todos. Por isso, oferecemos um preço justo que não vai pesar no seu bolso. Queremos garantir que você tenha a oportunidade de aproveitar ao máximo nossa comunidade e recursos exclusivos.
+- [X] Conteúdos de Qualidade: Como membro do OnlySecFans, você terá acesso a conteúdos cuidadosamente preparados. Desde artigos e tutoriais até vídeos e webinars, tudo foi pensado para proporcionar uma experiência de aprendizado enriquecedora.
+- [X] Eventos Exclusivos: Além do acesso aos conteúdos, você terá a oportunidade de participar de eventos especiais reservados exclusivamente para nossos membros. Participe de palestras, workshops e painéis de discussão com especialistas renomados e amplie seu networking.
 
 Como fazer parte do Clube de Assinatura Digital?
 

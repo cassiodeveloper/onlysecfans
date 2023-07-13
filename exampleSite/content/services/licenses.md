@@ -23,13 +23,13 @@ O AppSec News é um serviço dentro do OnlySecFans que entrega, diretamente no s
 
 ## O que você encontrará no AppSec News?
 
-- Notícias Abrangentes: Reunimos notícias de diversos portais especializados em Cyber Security, trazendo informações atualizadas sobre ameaças, vulnerabilidades, práticas recomendadas, atualizações de ferramentas e muito mais.
-- Seleção Criteriosa: Tentamos filtrar e selecionar cuidadosamente as notícias mais relevantes e impactantes, garantindo que você esteja sempre atualizado sobre os desenvolvimentos mais importantes no campo da Application Security.
+- [X] Notícias Abrangentes: Reunimos notícias de diversos portais especializados em Cyber Security, trazendo informações atualizadas sobre ameaças, vulnerabilidades, práticas recomendadas, atualizações de ferramentas e muito mais.
+- [X] Seleção Criteriosa: Tentamos filtrar e selecionar cuidadosamente as notícias mais relevantes e impactantes, garantindo que você esteja sempre atualizado sobre os desenvolvimentos mais importantes no campo da Application Security.
 
 ## Benefícios
 
-- Informação Centralizada: Receba um resumo semanal conciso das notícias mais importantes em um único lugar, economizando tempo e esforço na busca de informações relevantes.
-- Conteúdo Exclusivo: O AppSec News é exclusivo para assinantes do OnlySecFans, garantindo que você tenha acesso privilegiado a informações valiosas que podem impulsionar sua carreira e conhecimento em segurança de aplicações.
+- [X] Informação Centralizada: Receba um resumo semanal conciso das notícias mais importantes em um único lugar, economizando tempo e esforço na busca de informações relevantes.
+- [X] Conteúdo Exclusivo: O AppSec News é exclusivo para assinantes do OnlySecFans, garantindo que você tenha acesso privilegiado a informações valiosas que podem impulsionar sua carreira e conhecimento em segurança de aplicações.
 
 Atualização Contínua: Mantenha-se atualizado em um campo em constante evolução, acompanhando as últimas tendências, práticas recomendadas e descobertas no mundo da Application Security.
 
