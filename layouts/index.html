@@ -69,25 +69,22 @@
 </div>
 {{ end }}
 
-{{ end }}
-
-<div id="home" class="strip bg-primary bg-cover bg-position-top bg-overlay" style='background-image: url("/images/pgto.png");'>
+{{ range first 1 (after 2 $reusablePages) }}
+<div id="home" class="strip bg-primary bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
   <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
     <div class="row justify-content-center">
       <div class="col-12 col-md-8 text-center text-white">
-        <h2>Assine agora</h2>
-        <div>
-          <p>Assine agora e acesse todo o conteúdo</p>
-          <p>R$ 29,90</p><span>/mês</span>
-          <p>no plano anual.</p>
-          <a class="button button-white" href="https://pay.hotmart.com/P82624344I">ASSINE AGORA!</a>
-          <p>Compra 100% segura, com Garantia</p>
-          <p>Incondicional de 7 dias.</p>
-        </div>
+        <h2>{{ .Title }}</h2>
+        {{ .Content }}
+        <a class="button button-white" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
       </div>
     </div>
   </div>
 </div>
+{{ end }}
+
+{{ end }}
+
 
 {{ define "footer_js" }}
 {{ end }}
