@@ -1,7 +1,7 @@
 ---
 title: 'Você não precisa gastar uma fortuna para conquistar a senioridade em segurança.'
 weight: 1
-background: 'images/5.jpg'
+background: 'images/1.png'
 button: 'Como?'
 buttonLink: 'services'
 ---
