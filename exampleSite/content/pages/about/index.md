@@ -16,3 +16,6 @@ heroBackground: 'images/1.jpg'
 <div>
 {{< content-strip-center "/pages/about" "content3" >}}
 </div>
+<div>
+{{< content-strip-center "/pages/assine" "content4" >}}
+</div>
