@@ -1,7 +1,7 @@
 ---
 title: 'Assine agora mesmo!'
-weight: 4
-background: '/images/pgto.png'
+weight: 3
+background: '/images/2.png'
 button: 'Assinar agora'
 buttonLink: 'https://pay.hotmart.com/P82624344I'
 ---
