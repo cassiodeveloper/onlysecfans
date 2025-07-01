@@ -1,6 +1,6 @@
 baseURL = "https://onlysecfans.netlify.app/"
 languageCode = "en-us"
-title = "C.A.S. - Você melhor todo dia"
+title = "C.A.S. - Comunidade AppSec"
 themesDir = "../.."
 theme = "hugo-hero-theme"
 
@@ -23,7 +23,7 @@ theme = "hugo-hero-theme"
 
   [params.homepage_meta_tags]
     meta_description = "C.A.S., um programa completo para você se desenvolver profissionalmente na área de cyber segurança."
-    meta_og_title = "C.A.S. - Você melhor todo dia"
+    meta_og_title = "C.A.S. - Comunidade AppSec"
     meta_og_type = "website"
     meta_og_url = "https://onlysecfans.netlify.app/"
     meta_og_image = "https://onlysecfans.com.br/images/2.jpg"
