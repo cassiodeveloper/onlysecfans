@@ -24,11 +24,11 @@ Os AppSec Cards são imagens no formato de cards cômicos entregues semanalmente
 ## Benefícios
 
 - [X] Aprendizado Semanal: Receba um novo card toda semana, garantindo uma dose constante de conhecimento sobre segurança de aplicativos enquanto se diverte.
-- [X] Exclusividade: Os AppSec Cards são exclusivos para assinantes do OnlySecFans, proporcionando uma experiência única e divertida que não está disponível publicamente.
-- [X] Engajamento: Os cards são ótimos para iniciar conversas e interagir com outros entusiastas de Application Security dentro do OnlySecFans.
+- [X] Exclusividade: Os AppSec Cards são exclusivos para assinantes do C.A.S., proporcionando uma experiência única e divertida que não está disponível publicamente.
+- [X] Engajamento: Os cards são ótimos para iniciar conversas e interagir com outros entusiastas de Application Security dentro do C.A.S..
 
 ## Como assinar o AppSec Cards?
 
-Para se tornar um assinante do OnlySecFans e ter acesso exclusivo ao AppSec Cards, basta clicar [aqui](https://pay.hotmart.com/P82624344I) e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
+Para se tornar um assinante do C.A.S. e ter acesso exclusivo ao AppSec Cards, basta clicar [aqui](https://pay.hotmart.com/P82624344I) e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
 
 **Não perca a oportunidade de fortalecer suas habilidades de segurança de aplicações. Assine agora mesmo e prepare-se para se destacar no mundo da Application Security!**

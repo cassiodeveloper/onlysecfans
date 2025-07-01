@@ -13,7 +13,7 @@ Bem-vindo(a) ao AppSec News, o seu boletim semanal exclusivo que mantém você i
 
 ## O que é o AppSec News?
 
-O AppSec News é um serviço dentro do OnlySecFans que entrega, diretamente no seu portal um compilado semanal de notícias relevantes sobre Application Security. Selecionamos os principais portais, blogs e fontes confiáveis do setor para trazer a você as informações mais recentes e importantes.
+O AppSec News é um serviço dentro do C.A.S. que entrega, diretamente no seu portal um compilado semanal de notícias relevantes sobre Application Security. Selecionamos os principais portais, blogs e fontes confiáveis do setor para trazer a você as informações mais recentes e importantes.
 
 ### Alguns portais que consultamos:
 
@@ -29,12 +29,12 @@ O AppSec News é um serviço dentro do OnlySecFans que entrega, diretamente no s
 ## Benefícios
 
 - [X] Informação Centralizada: Receba um resumo semanal conciso das notícias mais importantes em um único lugar, economizando tempo e esforço na busca de informações relevantes.
-- [X] Conteúdo Exclusivo: O AppSec News é exclusivo para assinantes do OnlySecFans, garantindo que você tenha acesso privilegiado a informações valiosas que podem impulsionar sua carreira e conhecimento em segurança de aplicações.
+- [X] Conteúdo Exclusivo: O AppSec News é exclusivo para assinantes do C.A.S., garantindo que você tenha acesso privilegiado a informações valiosas que podem impulsionar sua carreira e conhecimento em segurança de aplicações.
 
 Atualização Contínua: Mantenha-se atualizado em um campo em constante evolução, acompanhando as últimas tendências, práticas recomendadas e descobertas no mundo da Application Security.
 
 ## Como assinar o AppSec News?
 
-Para se tornar um assinante do OnlySecFans e ter acesso exclusivo ao AppSec News, basta clicar [aqui](https://pay.hotmart.com/P82624344I) e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
+Para se tornar um assinante do C.A.S. e ter acesso exclusivo ao AppSec News, basta clicar [aqui](https://pay.hotmart.com/P82624344I) e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
 
 **Não perca a oportunidade de fortalecer suas habilidades de segurança de aplicações. Assine agora mesmo e prepare-se para se destacar no mundo da Application Security!**

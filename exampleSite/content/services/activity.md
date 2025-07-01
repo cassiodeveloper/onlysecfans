@@ -29,6 +29,6 @@ O AppSec Insiders Club é uma comunidade exclusiva projetada para conectar profi
 
 ## Como assinar o AppSec Insiders Club?
 
-Para se tornar um assinante do OnlySecFans e ter acesso exclusivo ao AppSec Insiders Club, basta clicar [aqui](https://pay.hotmart.com/P82624344I) e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
+Para se tornar um assinante do C.A.S. e ter acesso exclusivo ao AppSec Insiders Club, basta clicar [aqui](https://pay.hotmart.com/P82624344I) e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
 
 **Não perca a oportunidade de fortalecer suas habilidades de segurança de aplicações. Assine agora mesmo e prepare-se para se destacar no mundo da Application Security!**

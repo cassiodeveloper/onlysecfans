@@ -3,7 +3,7 @@ title: 'Sobre'
 date: 2018-12-06T09:29:16+10:00
 layout: 'about'
 heroHeading: 'Sobre'
-heroSubHeading: "O OnlySecFans é o lugar certo para quem quer ser expert em cyber segurança. Fazer parte desse grupo é obrigatório se você é:"
+heroSubHeading: "O C.A.S. é o lugar certo para quem quer ser expert em cyber segurança. Fazer parte desse grupo é obrigatório se você é:"
 heroBackground: 'images/1.jpg'
 ---
 
