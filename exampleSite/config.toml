@@ -47,6 +47,11 @@ theme = "hugo-hero-theme"
     url = "/contact/"
     weight = 3
 
+[[menu.main]]
+    name = "Acesso gratuito"
+    url = "https://t.co/eN2YIPlnOv"
+    weight = 4
+
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
