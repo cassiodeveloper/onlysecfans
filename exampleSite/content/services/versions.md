@@ -29,6 +29,6 @@ Os AppSec Cards são imagens no formato de cards cômicos entregues semanalmente
 
 ## Como assinar o AppSec Cards?
 
-Para se tornar um assinante do C.A.S. e ter acesso exclusivo ao AppSec Cards, basta clicar [aqui](https://pay.hotmart.com/P82624344I) e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
+Para se tornar um assinante do C.A.S. e ter acesso exclusivo ao AppSec Cards, basta clicar [aqui](https://pay.hotmart.com/P82624344I?off=677mnlc5) e escolher o plano que melhor se adequa às suas necessidades. Após a inscrição, você receberá seu acesso à plataforma onde terá acesso a todo o conteúido publicado até então e todo conteúdo novo semanal enquanto sua assinatura estiver ativa.
 
 **Não perca a oportunidade de fortalecer suas habilidades de segurança de aplicações. Assine agora mesmo e prepare-se para se destacar no mundo da Application Security!**

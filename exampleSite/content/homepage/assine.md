@@ -3,7 +3,7 @@ title: 'Assine agora mesmo!'
 weight: 3
 background: '/images/2.png'
 button: 'Assinar agora'
-buttonLink: 'https://pay.hotmart.com/P82624344I'
+buttonLink: 'https://pay.hotmart.com/P82624344I?off=677mnlc5'
 ---
 
 # R$ 29,90 **/mês** 
